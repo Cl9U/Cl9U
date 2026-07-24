@@ -41,7 +41,12 @@ I enjoy understanding how things work from the ground up and building games, too
 
 *  C Programming & Algorithms
 *  Data Structures
-
+*  C Programming & Algorithms
+*  Bash Scripting & Unix
+*  Linux & System Programming
+*  Makefiles & Build Systems
+*  Data Structures
+  
 ---
 
 ##  My Progress
