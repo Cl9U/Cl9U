@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 C Programmer | 🎮 Game Developer | 🚀 Builder
+###  C Programmer |  Game Developer |  Builder
 
 I enjoy learning how things work from the ground up and building games, tools, and software.
 
@@ -10,19 +10,19 @@ I enjoy learning how things work from the ground up and building games, tools, a
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-### 💻 Programming
+###  Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎮 Game Development
+###  Game Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 
-### 🧰 Tools
+###  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,25 +30,10 @@ I enjoy learning how things work from the ground up and building games, tools, a
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+##  Currently Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Currently Learning
-
-- 🧠 C Programming & Algorithms
-- 🎮 Unreal Engine 5 & Blueprints
-- 🧩 C++ for Game Development
-- 🛠️ FiveM Development
-- 🧱 Minecraft Modding with Java
+-  C Programming & Algorithms
 
 ---
 
