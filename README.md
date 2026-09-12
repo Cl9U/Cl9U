@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###  C Programmer |  Game Developer |  Builder
+###  Game Developer | 3D Modeler | Software Engineering Student
 
 I enjoy understanding how things work from the ground up and building games, tools, and software.
 
